@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28306.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterpriseLibrary.Data.OdpNet.Core", "EnterpriseLibrary.Data.OdpNet.Core\EnterpriseLibrary.Data.OdpNet.Core.csproj", "{A581F744-DC70-43F9-B3ED-BB7D1A95754B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterpriseLibrary.Data.OdpNet.Core.Tests", "EnterpriseLibrary.Data.OdpNet.Core.Tests\EnterpriseLibrary.Data.OdpNet.Core.Tests.csproj", "{AA273429-DD48-415F-9D19-77633F65CFC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterpriseLibrary.Data.OdpNet.Core.TestSupport", "EnterpriseLibrary.Data.OdpNet.Core.TestSupport\EnterpriseLibrary.Data.OdpNet.Core.TestSupport.csproj", "{2D003DE5-2809-4F2B-A686-D4AC41886FF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A581F744-DC70-43F9-B3ED-BB7D1A95754B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A581F744-DC70-43F9-B3ED-BB7D1A95754B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A581F744-DC70-43F9-B3ED-BB7D1A95754B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA273429-DD48-415F-9D19-77633F65CFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA273429-DD48-415F-9D19-77633F65CFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA273429-DD48-415F-9D19-77633F65CFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA273429-DD48-415F-9D19-77633F65CFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D003DE5-2809-4F2B-A686-D4AC41886FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D003DE5-2809-4F2B-A686-D4AC41886FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D003DE5-2809-4F2B-A686-D4AC41886FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D003DE5-2809-4F2B-A686-D4AC41886FF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
